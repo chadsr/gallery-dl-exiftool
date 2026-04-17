@@ -1,4 +1,4 @@
-FROM mikf123/gallery-dl:v1.31.6
+FROM mikf123/gallery-dl:v1.31.10
 
 RUN : \
     && apk --no-interactive update \
